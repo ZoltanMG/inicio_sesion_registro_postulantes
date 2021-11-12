@@ -8,7 +8,10 @@ import './iniciosesion.css'
 function InicioSesion() {
   return (
     <div>
-      <img id="astronauta--cohete" src={astronautaCohete} alt="astronauta sobre cohete" />
+      <div id="contenedor--cohete">
+        <img id="astronauta--cohete" src={astronautaCohete} alt="astronauta sobre cohete" />
+
+      </div>
       <div id="contenedor--boton__imagenes">
         <div id="contenedor--btn">
           <a href="https://www.devco.com.co/" target="_blank" rel="noreferrer"><img id="logo" src={logo} alt="logo somos devco" /></a>
