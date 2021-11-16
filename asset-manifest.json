@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZoltanMG/inicio_sesion_registro_postulantes/static/css/main.a31ce91a.chunk.css",
+    "main.js": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/main.bdd6c51b.chunk.js",
+    "main.js.map": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/main.bdd6c51b.chunk.js.map",
+    "runtime-main.js": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/runtime-main.e9ac40f4.js",
+    "runtime-main.js.map": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/runtime-main.e9ac40f4.js.map",
+    "static/js/2.89936cee.chunk.js": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/2.89936cee.chunk.js",
+    "static/js/2.89936cee.chunk.js.map": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/2.89936cee.chunk.js.map",
+    "index.html": "/ZoltanMG/inicio_sesion_registro_postulantes/index.html",
+    "static/css/main.a31ce91a.chunk.css.map": "/ZoltanMG/inicio_sesion_registro_postulantes/static/css/main.a31ce91a.chunk.css.map",
+    "static/js/2.89936cee.chunk.js.LICENSE.txt": "/ZoltanMG/inicio_sesion_registro_postulantes/static/js/2.89936cee.chunk.js.LICENSE.txt",
+    "static/media/82.0ceeb7df.png": "/ZoltanMG/inicio_sesion_registro_postulantes/static/media/82.0ceeb7df.png",
+    "static/media/84.fc835075.png": "/ZoltanMG/inicio_sesion_registro_postulantes/static/media/84.fc835075.png",
+    "static/media/logo-somos-fondo-oscuro.0bcc7652.png": "/ZoltanMG/inicio_sesion_registro_postulantes/static/media/logo-somos-fondo-oscuro.0bcc7652.png",
+    "static/media/singIn.6d51fde3.PNG": "/ZoltanMG/inicio_sesion_registro_postulantes/static/media/singIn.6d51fde3.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9ac40f4.js",
+    "static/js/2.89936cee.chunk.js",
+    "static/css/main.a31ce91a.chunk.css",
+    "static/js/main.bdd6c51b.chunk.js"
+  ]
+}
