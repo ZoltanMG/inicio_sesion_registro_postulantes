@@ -4,8 +4,13 @@ import astronautaCohete from '../../assets/images/84.png'
 import logo from '../../assets/images/logo-somos-fondo-oscuro.png'
 import singIn from '../../assets/images/singIn.PNG'
 import './iniciosesion.css'
+import React, { useEffect } from 'react';
 
 function InicioSesion() {
+  useEffect(() => {
+    let title = "Devco | Sign in"
+    document.title = title;
+  });
   return (
     <div>
       <div id="contenedor--cohete">
