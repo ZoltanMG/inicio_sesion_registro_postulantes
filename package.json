@@ -2,7 +2,7 @@
   "name": "inicio_sesion_registro_postulantes",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://github.com/ZoltanMG/inicio_sesion_registro_postulantes",
+  "homepage" : "https://zoltanmg.github.io/inicio_sesion_registro_postulantes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
